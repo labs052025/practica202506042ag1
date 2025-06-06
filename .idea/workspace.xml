@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="891dda5d-3742-4c57-8bd7-15549b150287" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FormJasson.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FormJasson.java" afterDir="false" />
-=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FormJohana.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FormJohana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
->>>>>>> d0b24f276159356d49fa08fcca92395c1bc5258f
-=======
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FormChelin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FormChelin.java" afterDir="false" />
->>>>>>> f2939f1f18c59a754709673af9ad3ffa40535c4e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +21,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2y3GQon89muVIg5x0TY8h5Ks7MG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -44,37 +30,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.FormChelin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-<<<<<<< HEAD
-    "RunOnceActivity.git.unshallow": "true",
-<<<<<<< HEAD
-    "git-widget-placeholder": "Jasson",
-=======
-    "git-widget-placeholder": "develop",
-    "ignore.virus.scanning.warn.message": "true",
->>>>>>> d0b24f276159356d49fa08fcca92395c1bc5258f
-=======
-    "git-widget-placeholder": "ramaMeynor",
->>>>>>> f2939f1f18c59a754709673af9ad3ffa40535c4e
+    "git-widget-placeholder": "Merging develop",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Alumno/Documents/Java/proyecto/practicaappdesktop/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FormChelin">
-    <configuration name="FormChelin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.FormChelin" />
-      <module name="practicaappdesktop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="practicaappdesktop" />
@@ -90,7 +52,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FormChelin" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -105,28 +66,5 @@
       <updated>1749055832064</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/develop" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
